@@ -1,0 +1,24 @@
+# Arquivos binários gerados
+sistema
+sistema.exe
+*.o
+*.out
+
+# Binários de dados
+*.bin
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Compilação
+obj/
+build/
+
+# Temporários
+*.tmp
+*.temp
+.DS_Store
